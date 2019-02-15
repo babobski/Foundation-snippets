@@ -1,0 +1,20 @@
+{
+  "keyboard_shortcut": "Alt+F, C", 
+  "name": "container", 
+  "language": "Text", 
+  "value": [
+    "<div class=\"grid-container[[%tabstop: fluid]][[%tabstop: margin-x]][[%tabstop: padding-x]]\">", 
+    "    <div class=\"grid-x\">", 
+    "        <div class=\"col [[%tabstop:small]]-[[%tabstop:12]]\">", 
+    "            [[%tabstop:]]", 
+    "        </div>", 
+    "    </div>", 
+    "</div>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.1.5", 
+  "treat_as_ejs": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

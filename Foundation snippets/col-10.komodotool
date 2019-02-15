@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "Alt+F, 0", 
+  "name": "col-10", 
+  "language": "Text", 
+  "value": [
+    "<div class=\"cell [[%tabstop:small]]-10\">", 
+    "    [[%tabstop:]]", 
+    "</div>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.1.5", 
+  "treat_as_ejs": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}
