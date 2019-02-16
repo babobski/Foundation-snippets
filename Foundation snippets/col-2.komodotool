@@ -1,7 +1,7 @@
 {
   "keyboard_shortcut": "Alt+F, 2", 
   "name": "col-2", 
-  "language": "Text", 
+  "language": "HTML-common", 
   "value": [
     "<div class=\"cell [[%tabstop:small]]-2\">", 
     "    [[%tabstop:]]", 
@@ -9,8 +9,8 @@
   ], 
   "set_selection": "true", 
   "version": "1.1.5", 
-  "auto_abbreviation": "false", 
-  "treat_as_ejs": "false", 
+  "indent_relative": "true", 
   "type": "snippet", 
-  "indent_relative": "true"
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
 }
