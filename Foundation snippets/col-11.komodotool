@@ -9,7 +9,8 @@
   ], 
   "set_selection": "true", 
   "version": "1.1.5", 
-  "treat_as_ejs": "false", 
+  "treat_as_ejs": "false",
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/rocket.svg", 
   "type": "snippet", 
   "indent_relative": "true", 
   "auto_abbreviation": "false"
