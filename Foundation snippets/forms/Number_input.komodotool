@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Number input", 
+  "language": "HTML-common", 
+  "value": [
+    "<label>", 
+    "    [[%tabstop:How many puppies?]]", 
+    "    <input type=\"number\" value=\"[[%tabstop:100]]\">", 
+    "</label>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.1.5", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/rocket.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

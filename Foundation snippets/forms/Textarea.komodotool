@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Textarea", 
+  "language": "HTML-common", 
+  "value": [
+    "<label>", 
+    "  [[%tabstop:What books did you read over summer break?]]", 
+    "  <textarea placeholder=\"[[%tabstop:None]]\"></textarea>", 
+    "</label>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.1.5", 
+  "auto_abbreviation": "false", 
+  "treat_as_ejs": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/rocket.svg"
+}
