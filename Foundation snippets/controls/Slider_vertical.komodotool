@@ -1,0 +1,19 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Slider vertical", 
+  "language": "SCSS", 
+  "value": [
+    "<div class=\"slider vertical\" data-slider data-initial-start=\"[[%tabstop:25]]\" data-end=\"[[%tabstop:200!@#_currentPos!@#_anchor]]\" data-vertical=\"true\">", 
+    "    <span class=\"slider-handle\" data-slider-handle role=\"slider\" tabindex=\"1\"></span>", 
+    "    <span class=\"slider-fill\" data-slider-fill></span>", 
+    "    <input type=\"hidden\">", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.1.5", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/rocket.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

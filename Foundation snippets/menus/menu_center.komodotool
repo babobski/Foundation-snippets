@@ -1,0 +1,19 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "menu center", 
+  "language": "HTML-common", 
+  "value": [
+    "<ul class=\"menu align-center[[%tabstop: class]]\">", 
+    "    <li>", 
+    "        <a href=\"[[%tabstop:#]]\">[[%tabstop:One]]</a>", 
+    "    </li>", 
+    "</ul>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.1.5", 
+  "auto_abbreviation": "false", 
+  "treat_as_ejs": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/rocket.svg"
+}

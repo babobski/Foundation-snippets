@@ -3,9 +3,9 @@
   "name": "container", 
   "language": "HTML-common", 
   "value": [
-    "<div class=\"grid-container[[%tabstop: fluid]][[%tabstop: margin-x]][[%tabstop: padding-x]]\">", 
-    "    <div class=\"grid-x\">", 
-    "        <div class=\"cel!@#_currentPos!@#_anchorl [[%tabstop:small]]-[[%tabstop:12]]\">", 
+    "<div class=\"grid-container[[%tabstop: fluid]]\">", 
+    "    <div class=\"grid-x [[%tabstop: grid-margin-x]][[%tabstop: grid-!@#_currentPos!@#_anchorpadding-x]]\">", 
+    "        <div class=\"cell [[%tabstop:small]]-[[%tabstop:12]]\">", 
     "            [[%tabstop:]]", 
     "        </div>", 
     "    </div>", 
@@ -13,9 +13,9 @@
   ], 
   "set_selection": "true", 
   "version": "1.1.5", 
-  "auto_abbreviation": "false", 
-  "treat_as_ejs": "false", 
-  "type": "snippet", 
   "indent_relative": "true", 
-  "icon": "koicon://ko-svg/chrome/icomoon/skin/rocket.svg"
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/rocket.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
 }
